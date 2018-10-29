@@ -13,6 +13,17 @@ permalink: /publications/
 
 ## Publications
 
+Turner, John A., Kevin Clarno, Matt Sieger, Roscoe A. Bartlett, Benjamin
+Collins, Roger Pawlowski, Rodney Schmidt, and Randall Summers. *The Virtual
+Environment for Reactor Applications (VERA): Design and architecture*.
+Journal of Computational Physics, V. 326, p. 544-568, 2016
+[[PDF](1537555953658-VERA_JCP_10.1016_j.jcp.2016.09.003.pdf)]
+([Current](http://dx.doi.org/10.1016/j.jcp.2016.09.003))
+
+[comment]: <> (SAND No: SAND2018-12418 J)
+
+[comment]: <> (http://dx.doi.org/10.1016/j.jcp.2016.09.003)
+
 Bartlett, Roscoe. *A Roadmap for Sustainable Ecosystems of CSE
 Software*. Computational Science and Engineering Software Sustainability and
 Productivity Challenges (CSESSP) Workshop. October 16, 2015
@@ -148,6 +159,11 @@ Reduction/Transformation Operators, ACM Transactions on Mathematical
 Software*. Vol. 30, No. 1, p. 62 -85, 2004 [[PDF]()]
 
 ## Presentations
+
+Bartlett, Roscoe, Joseph R. Frye. *ATDM Trilinos Testing and Integration*.
+Trilinos Developers Meeting, October 25, 2018
+[[PPT](ATDM_Trilinos_Testsing_Integration_20181025.pptx),
+[PDF](ATDM_Trilinos_Testsing_Integration_20181025.pdf)]
 
 Bartlett, Roscoe. *Application of TriBITS to Larger Componentized Scientific
 and Engineering Software Projects*. SIAM Computational Science & Engineering,
