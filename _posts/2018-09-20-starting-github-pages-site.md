@@ -17,9 +17,9 @@ I would have hoped.  First, you have to install a newer version of Ruby on
 your local machine and then use that to install something call "bundler" and
 then use that to install Jekyll.  This is really important because to test the
 building of your website and view what it looks like locally, you have to be
-able to run and updated Jekyll server locally over and over again on your
-local machine.  To install Ruby and Jekyll, I followed the instructions on
-various GitHub and other sites
+able to run an updated Jekyll server locally over and over again on your local
+machine.  To install Ruby and Jekyll, I followed the instructions on various
+GitHub and other sites
 (e.g. [here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)). I
 was able to install these on a Windows 7 Laptop using Cygwin (and therefore
 followed the Linux instructions).  I was able to build Ruby 2.5.1 from source
@@ -51,17 +51,16 @@ $ bundler install
 and then build and view the site locally by running the blocking command:
 
 ```
-$ bundle exec jekyll serve`
+$ bundle exec jekyll serve
 ```
 
-in a Cygwin terminal and then going to `https://localhost:4000` in my Chrome
-browser on my Windows 7 machine.  (While that command runs in blocking mode,
-you can edit your files locally and by default Jekyll will automatically
-rebuilt your site and you can just refresh your browser to see the updated
-pages.  Very node!).  By forking this Minima Theme GitHub repo, it is my hope
-that it should be easy to update my template and files by merging in updated
-versions from the main GitHub repo (of course carefully resolving merge
-conflicts).
+in a Cygwin terminal and then going to `localhost:4000` in my Chrome browser
+on my Windows 7 machine.  (While that command runs in blocking mode, you can
+edit your files locally and by default Jekyll will automatically rebuilt your
+site and you can just refresh your browser to see the updated pages.  Very
+nice!).  By forking this Minima Theme GitHub repo, it is my hope that it
+should be easy to update my template and files by merging in updated versions
+from the main GitHub repo (of course carefully resolving merge conflicts).
 
 After I verified that I could generate and view the existing Minima page
 locally and after pushing to github, I then set out to customize it for
@@ -78,9 +77,9 @@ did!)
 
 I am very happy with how this site looks so far.  This is really something
 special when you think about it.  With GitHub Pages and Jekyll, you get a free
-semi-professional looking website that you can edit a simple Markdown `*.md`
-files with full version control history (in git) and it gets served on the web
-for free!  That is pretty slick!
+semi-professional looking website that you can edit simple Markdown `*.md`
+files with full git version-control history and it gets served on the web for
+free!  That is pretty slick!
 
 Hopefully this short blog will help other people who might be interested in
 setting up their own website using GitHub Pages with minimal effort.
