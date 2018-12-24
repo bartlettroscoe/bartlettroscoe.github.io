@@ -98,6 +98,8 @@ Scientists and Engineers Think They Know About Software Engineering: A
 Survey*. SAND2011-2196J. Submitted to Computing in Science and
 Engineering. March 2011 [[PDF](SECSESurvey-CiSEMagazineArticle_Final.pdf)]
 
+<a name="teuchos_cxx_mem_mng_classes"/>
+
 Bartlett, Roscoe. *Teuchos C++ Memory Management Classes, Idioms, and Related
 Topics: The Complete Reference (A Comprehensive Strategy for Safe and
 Efficient Memory Management in C++ for High Performance
@@ -114,6 +116,8 @@ NEAMS Waste Forms Team. *Waste Forms and Systems Integrated Performance and
 Safety Codes System Design Specification. SAND2009-3969, Sandia National
 Laboratories*. September 2009 [[PDF](NEAMS_IPSC_WF_Report_FY09.pdf)] (See
 sections 6.2, 7.5, 7.6, 7.7, 7.8, and C.3 all written by Roscoe Bartlett)
+
+<a name="moocho_2009"/>
 
 Bartlett, Roscoe. *Mathematical and High-Level Overview of MOOCHO: The
 Multifunctional Object-Oriented arCHitecture for Optimization*. SAND2009-3969,
@@ -167,6 +171,13 @@ Bartlett, Roscoe, Bart van Bloemen Waanders, and Michael Heroux. *Vector
 Reduction/Transformation Operators, ACM Transactions on Mathematical
 Software*. Vol. 30, No. 1, p. 62 -85, 2004 [[PDF](RTOpTOMS2004.pdf)]
 
+<a name="rsqpxx_2003"/>
+
+Bartlett, Roscoe, and Lorenz Biegler. *rSQP++: An Object-Oriented Framework
+for Successive Quadratic Pogramming*. In: Biegler L.T., Heinkenschloss M.,
+Ghattas O., van Bloemen Waanders B. (eds) *Large-Scale PDE-Constrained
+Optimization*. Lecture Notes in Computational Science and Engineering, vol 30.
+Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
