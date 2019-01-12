@@ -41,5 +41,5 @@ permalink: /cv/
 * **Frederick Community College**, Frederick MD (1991-1993)
   * **GPA**: 3.955/4.0
 
-* **Hood College**, Frederick MD (1991-1992)}
+* **Hood College**, Frederick MD (1991-1992)
   * **GPA**: 4.0/4.0

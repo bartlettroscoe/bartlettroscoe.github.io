@@ -40,14 +40,15 @@ Stroustrup's book [*The C++ Programming Language, 2nd
 Edition*](#the_cxx_programming_language_special_edition).  While that book
 mostly just covered the C++ language, Stroustrup made some references to
 writing tests and some other basic software engineering best practices but it
-was very minimal (after all, this was a book about a programming language, not
-software engineering).  Later my first year of graduate school I was
+was minimal (after all, this was a book about a programming language, not
+software engineering).  Later in my first year of graduate school, I was
 introduced to the book [*Design Patterns*](#design_patterns_1995) by a
 Computer Science Ph.D. student at CMU.  Armed with the knowledge of C++ and
 Design Patterns, I set about writing a sizable amount of software implementing
 advanced numerical algorithms for constrained optimization as part of my
-Ph.D. work (the optimization package at that point was called rSQP++ for
-reduced successive quadratic programming).
+Ph.D. work (the optimization package at that point was called
+[rSQP++](../publications#rsqpxx_2003) for reduced successive quadratic
+programming).
 
 When I started working at Sandia National Labs in 2001 after my Ph.D., I
 continued writing object-oriented parallel numerical software in C++,
@@ -71,9 +72,9 @@ prior to gaining this knowledge, I had created tens of thousands of lines of
 CSE software of insufficient quality and that I was now in a position have to
 maintain.
 
-It is my hope that this reading list we be useful and will help motivate
-others to go on the same journey.  Once you are armed with this knowege, there
-is no going back!
+It is my hope that this reading list will be useful and help motivate others
+to obtain this knowledge and skills earlier in their professional careers
+(sooner than I did).  Once armed with this knowledge, there is no going back!
 
 ## A) General Software Engineering Books
 
