@@ -157,6 +157,8 @@ Bartlett, Roscoe, Bart van Bloemen Waanders, and Martin Berggeren. *Hybrid
 Differentiation Strategies for Simulation and Analysis of Applications in
 C++*. ACM TOMS, Vol. 35, No. 1, Article 1, July 2008 [[PDF](ADTOMS2007.pdf)]
 
+<a name="thyra_op_vec_2007"/>
+
 Bartlett, Roscoe. *Thyra Linear Operators and Vectors: Overview of Interfaces
 and Support Software for the Development and Interoperability of Abstract
 Numerical Algorithms*. SAND2007-5984, Sandia National Laboratories, 2007
