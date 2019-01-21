@@ -5,31 +5,32 @@ permalink: /reading-list/
 ---
 
 This page lists some books about various aspects of software development and
-software engineering that I have read over the years, especially during a
-particularly intense period in the 2007-2008 time-frame.  I provide a brief
-overview of the content of each book and why I think it is useful (or
-essential) to read the book and what to look for in each.  These books --
-along wtih the personal application of the ideas presented in them over the
-next few years -- represent my basic education in software engineering.
-Hopefully this reading list will help others the way it has helped me.
+software engineering that I (Roscoe Bartlett) have read over the years,
+especially during a particularly intense period in the 2007-2008 time frame.
+I provide a brief overview of the content of each covered book and why I think
+it is useful (or essential) to read the book and what to look for in each
+book.  These books (along wtih the personal application in the following years
+of the principles and practicies presented in them) represent my basic
+education in software engineering.  Hopefully these book will help others the
+way they helped me.
 
 **Outline:**
 
 * [Background](#background)
-* [A) General Software Engineering Books](#a-general-software-engineering-books)
-  * [A.1) Most Recommended Software Engineering Books](#a1-most-recommended-software-engineering-books)
-  * [A.2) Recommended Software Engineering Books](#a2-recommended-software-engineering-books)
-* [B) C++ Books](#b-c-books)
-  * [B.1) Most Recommended C++ Books](#b1-most-recommended-c-books)
-  * [B.2) Recommended Books on the Fine Details of C++](#b2-recommended-books-on-the-fine-details-of-c)
-  * [B.3) Recommended Books on the History of C++ and why it has it's current form](#b3-recommended-books-on-the-history-of-c-and-why-it-has-its-current-form)
+* [A) General Software Engineering Books](#general_se_books)
+  * [A.1) Most Recommended Software Engineering Books](#most_recommended_se_books)
+  * [A.2) Recommended Software Engineering Books](#recommended_se_books)
+* [B) C++ Books](#c++_books)
+  * [B.1) Most Recommended C++ Books](#most_recommended_c++_books)
+  * [B.2) Recommended Books on the Fine Details of C++](#recommended_c++_books)
+  * [B.3) Recommended Books on the History of C++ and why it has it's current form](#recommended_c++_history_books)
 
 ## Background
 
 To provide some context and motivation for this reading list, here I describe
 some of my background and experiences related to my software development
 journey.  It is my hope that others can avoid the path that I took and instead
-educate themselves about software development sooner than I did.
+educate themselves about software development sooner in their careers.
 
 When I started my Ph.D. in Chemical Engineering in 1996 at Carnegie Mellon
 University (CMU), I knew that I liked writing code and I liked the challenge
@@ -37,7 +38,7 @@ of learning and mastering the C++ language.  My first C++ book was "C++ Nuts &
 Bolts for Experienced Programmers", 1995, by Herbert Schildt, and I read that
 book cover-to-cover in about 2 days.  A few months after that I read Bjarne
 Stroustrup's book [*The C++ Programming Language, 2nd
-Edition*](#the_cxx_programming_language_special_edition).  While that book
+Edition*](#c++_programming_language_special_edition_2000).  While that book
 mostly just covered the C++ language, Stroustrup made some references to
 writing tests and some other basic software engineering best practices but it
 was minimal (after all, this was a book about a programming language, not
@@ -76,12 +77,16 @@ It is my hope that this reading list will be useful and help motivate others
 to obtain this knowledge and skills earlier in their professional careers
 (sooner than I did).  Once armed with this knowledge, there is no going back!
 
+<a name="general_se_books"/>
+
 ## A) General Software Engineering Books
 
 Here is a set of books that I have read about general software engineering
 that is largely independent of programming language (but is biased toward
 object-oriented languages) that would recommend to anyone who is serious about
 software development.
+
+<a name="most_recommended_se_books"/>
 
 ### A.1) Most Recommended Software Engineering Books
 
@@ -90,7 +95,19 @@ recommend to anyone who is serious about software development. These books are
 listed in the approximate order of importance and the order that I would
 recommend people read them in depending on interest and focus.
 
-<a name="code_complete_2nd_edition"/>
+* [McConnell, Steve. *Code Complete (Second Edition)*. Microsoft Press,
+  2004](#code_complete_2nd_edition_2004)
+* [Feathers, Michael. *Working Effectively with Legacy Code*. Prentice Hall,
+  2005](#working_effectively_with_legacy_code_2005)
+* [Martin, Robert C. *Agile Software Development (Principles, Patterns, and
+  Practices)*. Prentice Hall, 2003](#agile_software_development_2003)
+* [Evans, Eric. *Domain-Driven Design*. Addison Wesley,
+  2004](#domain_driven_design_2004)
+* [Poppendieck, Mary and Tom. *Implementing Lean Software
+  Development*. Addison Wesley,
+  2007](#implementing_lean_software_development_2007)
+
+<a name="code_complete_2nd_edition_2004"/>
 
 #### McConnell, Steve. *Code Complete (Second Edition)*. Microsoft Press, 2004
 
@@ -110,9 +127,12 @@ clear, and robust code have gone way up. After reading this book, I now look
 at the design, structuring, and layout of software with the same level of
 standards that I apply to writing journal quality papers.
 
-*Disclaimer:* Steve's advice on C++ is not the most current. He appears to be a
-much more accomplished C programmer. For specific C++ advice, refer the
-Effective C++ (3rd edition) and other C++ references given below.
+*Disclaimer:* Steve's advice on C++ is not the most current. He appears to be
+a much more accomplished C programmer. For specific C++ advice, refer the
+[Effective C++ (3rd edition)](#effective_cxx_3rd_edition_2005) and other C++
+references given below.
+
+<a name="working_effectively_with_legacy_code_2005"/>
 
 #### Feathers, Michael. *Working Effectively with Legacy Code*. Prentice Hall, 2005
 
@@ -135,6 +155,8 @@ business developing software. Before reading this book, I was not 100%
 convinced about unit testing. After reading this book, I unit test almost
 every non-trivial code as a rule and it has massively improved the quality of
 the software that I write. There is no going back for me.
+
+<a name="agile_software_development_2003"/>
 
 #### Martin, Robert C. *Agile Software Development (Principles, Patterns, and Practices)*. Prentice Hall, 2003
 
@@ -246,6 +268,8 @@ too much attention to low-level details.)". Notice the past tense word
 bias as a problem in adopting these ideas in a C++ environment but this bias
 is something to keep in mind when reading the book.
 
+<a name="implementing_lean_software_development_2007"/>
+
 #### Poppendieck, Mary and Tom. *Implementing Lean Software Development*. Addison Wesley, 2007
 
 This is a fantastic book about modern Agile software development. Here, the
@@ -275,15 +299,43 @@ to look for further details and explanations.
 *Disclaimer:* At the foundation for "Lean" software development is an analogy
 to the Toyota Production System (TPS) for manufacturing. As with any such
 analogy one can go too far (see [*Code Complete (2nd
-edition)*](#code_complete_2nd_edition)) for a discussion of this issue) but
-the authors appear to be able to only take the manufacturing analogy as far as
-it can be usefully applied and not any further.
+edition)*](#code_complete_2nd_edition_2004)) for a discussion of this issue)
+but the authors appear to be able to only take the manufacturing analogy as
+far as it can be usefully applied and not any further.
+
+<a name="recommended_se_books"/>
 
 ### A.2) Recommended Software Engineering Books
 
 This next set of books provides valuable information on general software
 engineering but I do not recommend them quite as highly as the books described
-above.  However, many of these are still considered classics.
+above.  It is not that these books are not excellent on their own.  It is that
+the information provided in my [most recommended
+books](#most_recommended_se_books) taken together covers a majority of the
+important information founds in the books in this section.  However, many of
+these are still considered classics and any good software engineer (or
+software engineering researcher) should know these books.
+
+* [Fowler, Martin. *UML Distilled (Third Edition)*. Addison Wesley,
+  2004](#uml_distilled_3rd_2004)
+* [Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. *Design
+  Patterns (Elements of Reusable Object-Oriented Software*. Addison Wesley,
+  1995](#design_patterns_1995)
+* [Beck, Kent. *Test Driven Development*. Addison Wesley, 2003](#tdd_2003)
+* [Fowler, Martin. *Refactoring (Improving the Design of Existing
+  Code)*. Addison Wesley, 1999](#refactoring_1999)
+* [Duvall, Paul, et al. *Continuous Integration*. Addison Wesley,
+  2007](#continuous_integration_2007)
+* [Beck, Kent. *Extreme Programming (Second Edition)*. Addison Wesley,
+  2005](#xp_2nd_2005)
+* [Schwaber, Ken and Mike Beedle. *Agile Software Development with
+  Scrum*. Prentice Hall, 2002](#scrum_2002)
+* [Kniberg, Henrik. *Scrum and XP from the Trenches*. Info,
+  2007](#scrum_and_xp_from_the_trenches_2007)
+* [Brooks, Frederick. *The Mythical Man Month: 20th Anniversary
+  Edition*. Addison Wesley, 1995](#mythical_man_month_2th_1995)
+
+<a name="uml_distilled_3rd_2004"/>
 
 #### Fowler, Martin. *UML Distilled (Third Edition)*. Addison Wesley, 2004
 
@@ -317,6 +369,8 @@ global data (no way around it). Also, I have found little to no use for the
 patterns FLYWEIGHT, CHAIN OF RESPONSIBILITY, no INTERPRETER (but perhaps I
 will some day).
 
+<a name="tdd_2003"/>
+
 #### Beck, Kent. *Test Driven Development*. Addison Wesley, 2003
 
 I am not wildly excited about this book but it does sharply define Test Driven
@@ -332,6 +386,8 @@ writing this book to the lowest common denominator of programmers. Therefore,
 I got all that I needed out of Part III; I did not need the long-winded
 examples in Parts I and II (but they might be more useful for some other
 people).
+
+<a name="refactoring_1999"/>
 
 #### Fowler, Martin. *Refactoring (Improving the Design of Existing Code)*. Addison Wesley, 1999
 
@@ -354,6 +410,8 @@ without experiencing wasted time working with broken code. It also describes
 how to make release and deployment "non-events". This book is very Agile
 friendly.
 
+<a name="xp_2nd_2005"/>
+
 #### Beck, Kent. *Extreme Programming (Second Edition)*. Addison Wesley, 2005
 
 Extreme Programming (XP) is called "extreme" for a reason. There are some
@@ -374,6 +432,8 @@ described by Steve McConnell at
 http://blogs.construx.com/blogs/stevemcc/archive/2007/10/08/5-questions-on-agile-development.aspx
 and www.construx.com (do a local search on "Legacy of Agile Software
 Development" on that page).
+
+<a name="scrum_2002"/>
 
 #### Schwaber, Ken and Mike Beedle. *Agile Software Development with Scrum*. Prentice Hall, 2002
 
@@ -411,6 +471,8 @@ In this book, the author describes how they implemented Scrum in his software
 organization and he goes into a lot of the practical details of working with
 Scrum on a day-to-day basis. Also, this book gives some of the updated best
 practices of Scrum that are more recent. Lots of good stuff here.
+
+<a name="mythical_man_month_2th_1995"/>
 
 #### Brooks, Frederick. *The Mythical Man Month: 20th Anniversary Edition*. Addison Wesley, 1995
 
@@ -451,6 +513,8 @@ every part of the code which he totally changed his mind on in 1995 and has
 come to believe in interfaces, specialization, and information hiding (see
 Chapter 19).
 
+<a name="c++_books"/>
+
 ## B) C++ Books
 
 *Disclaimer:* This list of books was compiled in 2008 when C++98/03 was the
@@ -458,6 +522,8 @@ current C++ standard.  Much has changed with the introduction of the newer and
 improved C++11, C++14 and C++17 standards.  However, much of the advice
 provided in these books still holds up in these more modern C++ standards.
 (And there are still billions of lines of C++ written in C++03.)
+
+<a name="most_recommended_c++_books"/>
 
 ### B.1) Most Recommended C++ Books
 
@@ -472,13 +538,25 @@ given below were written before 1998 so be careful of some of the advice you
 find in them. Refer to the newer books (such as Effective C++ (3rd edition)
 and C++ Coding Standards) for more current advise.
 
-<a name="effective_cxx_3rd_edition"/>
+* [Meyers, Scott. *Effective C++ (Third Edition)*. Addison Wesley,
+  2005](#effective_cxx_3rd_edition_2005)
+* [Sutter, Herb and Andrei Alexandrescu. *C++ Coding Standards*. Addison
+  Wesley, 2005](#c++_coding_standards_2005)
+* [Stroustrup, Bjarne. *The C++ Programming Language (Special
+  Edition)*. Addison Wesley,
+  2000](#c++_programming_language_special_edition_2000)
+* [Meyers, Scott. *More Effective C++*. Addison Wesley,
+  1996](#more_effective_c++_1996)
+
+<a name="effective_cxx_3rd_edition_2005"/>
 
 #### Meyers, Scott. *Effective C++ (Third Edition)*. Addison Wesley, 2005
 
 The book describes the most current, best advice on how to write good C++03
 code and stay out of trouble. This book is not the first book that a beginner
 would read on C++03 but it is probably the second.
+
+<a name="c++_coding_standards_2005"/>
 
 #### Sutter, Herb and Andrei Alexandrescu. *C++ Coding Standards*. Addison Wesley, 2005
 
@@ -493,13 +571,13 @@ just not quite correct in my opinion. I amend and nullify some of the items in
 the Appendix of the tech report "Thyra Coding and Documentation Guidelines"
 (see [my publications list](../publications)).
 
-<a name="the_cxx_programming_language_special_edition"/>
+<a name="c++_programming_language_special_edition_2000"/>
 
 #### Stroustrup, Bjarne. *The C++ Programming Language (Special Edition)*. Addison Wesley, 2000
 
 Bjarne Stroustrup is the original implementer of C++ and is still highly
 involved in the C++ standardization process (see [*Evolving a language in and
-for the real world: C++ 1991-2006*](#evolving_cxx_1991_2006)). Most beginning
+for the real world: C++ 1991-2006*](#evolving_c++_1991_2006)). Most beginning
 C++ programmers find this book hard to get through but it provides a very
 comprehensive treatment of the C++ language and standard C++ library (i.e.,
 the ISO C++98 standard). In later chapters, Stroustrup also gives a lot of
@@ -512,13 +590,15 @@ Language (2nd Edition)", just with a hard cover.)
 practices in the C++ community. For example, where TC++PL and C++ Coding
 Standards differ, go with the guidance in the latter.
 
+<a name="more_effective_c++_1996"/>
+
 #### Meyers, Scott. *More Effective C++*. Addison Wesley, 1996
 
-While [*Effective C++ (3rd Edition)*](#effective_cxx_3rd_edition) provides
-basic information on C++98/03, this book goes into some more advanced C++
-concepts. This book describes a number of useful concepts and is a great place
-to look for ideas. For example, I put Item 28 on smart pointers and Item 29 on
-reference counting together and came up with the idea of smart
+While [*Effective C++ (3rd Edition)*](#effective_cxx_3rd_edition_2005)
+provides basic information on C++98/03, this book goes into some more advanced
+C++ concepts. This book describes a number of useful concepts and is a great
+place to look for ideas. For example, I put Item 28 on smart pointers and Item
+29 on reference counting together and came up with the idea of smart
 reference-counted pointers that has evolved into the current Teuchos::RCP
 class (see paper [*Teuchos C++ Memory Management Classes, Idioms, and Related
 Topics: The Complete
@@ -528,6 +608,8 @@ Reference*](../publications#teuchos_cxx_mem_mng_classes)).
 standard) and some of the material is not relevant anymore. For example, much
 of the material in Items 32, and 35 is obsolete.
 
+<a name="recommended_c++_books"/>
+
 ### B.2) Recommended Books on the Fine Details of C++
 
 If you really want to know the gory details of C++ and how to do crazy
@@ -535,6 +617,17 @@ powerful things with it, the following books will provide a lot of in-depth
 information. I have not read every word in these books but I often refer to
 them whenever I get stuck and can't understand why C++ is not compiling my
 code or my program is not behaving the way that I expect.
+
+* [Dewhurst, Stephen, C. *C++ Gotchas*. Addison Wesley,
+  2003](#c++_gotchas_2003)
+* [Vandevoorde, David, and Nicolai M. Josuttis. *C++ Templates*. Addison
+  Wesley, 2003](#c++_templates_2003)
+* [Alexandrescu, Andrei. *Modern C++ Design*. Addison Wesley,
+  2001](#modern_c++_design_2001)
+* [Ellis, Margaret, and Bjarne Stroustrup. *C++: The Annotated Reference
+  Manual*. Addison Wesley, 1990](#c++_annotated_ref_1990)
+
+<a name="c++_gotchas_2003"/>
 
 #### Dewhurst, Stephen, C. *C++ Gotchas*. Addison Wesley, 2003
 
@@ -544,6 +637,8 @@ actually write an entire book on "C++ Gotchas" is just another indication of
 how complex this language is and why very few people really excel in using it.
 (In some ways, it also exposes some of the languages most serious deficiencies
 that no upcoming C++ standard can fix, and still call it C++.)
+
+<a name="c++_templates_2003"/>
 
 #### Vandevoorde, David, and Nicolai M. Josuttis. *C++ Templates*. Addison Wesley, 2003
 
@@ -555,12 +650,16 @@ resolution of C++ functions including how templated functions fit in. This is
 very helpful when you are not sure why some code does not compile the way you
 think it should.
 
+<a name="modern_c++_design_2001"/>
+
 #### Alexandrescu, Andrei. *Modern C++ Design*. Addison Wesley, 2001
 
 This book describes some very advanced template-programming techniques with
 C++03. If you are writing any type of complex template code, I would highly
 recommend that you have this book and know what information it contains so
 that you can find it when you need specific information.
+
+<a name="c++_annotated_ref_1990"/>
 
 #### Ellis, Margaret, and Bjarne Stroustrup. *C++: The Annotated Reference Manual*. Addison Wesley, 1990
 
@@ -572,6 +671,8 @@ lots of examples of how C++ compilers implement common language features. For
 instance, if you want to know how virtual functions are commonly implemented
 and why they are so efficient, there are good examples given.
 
+<a name="recommended_c++_history_books"/>
+
 ### B.3) Recommended Books on the History of C++ and why it has its current form
 
 When looking at its current form, it is clear that C++ is a language that was
@@ -581,6 +682,15 @@ scratch that looks like C++98. Therefore, if you really want to know why C++
 is the way it is, the following publications from Bjarne Stroustrup are very
 illuminating.
 
+* [Stroustrup, Bjarne. *The Design and Evolution of C++*. Addison Wesley,
+  1994](#design_and_evolution_of_c++_1994)
+* [Stroustrup, Bjarne. *Evolving a language in and for the real world C++
+  1991-2006*, HOPL III: Proceedings of the third ACM SIGPLAN conference on
+  History of programming languages, AMC, New York, pages 4-1 to 4-59,
+  2007](#evolving_c++_1991_2006)
+
+<a name="design_and_evolution_of_c++_1994"/>
+
 #### Stroustrup, Bjarne. *The Design and Evolution of C++*. Addison Wesley, 1994
 
 If want to know where C++ came from and why most of the language is the way it
@@ -589,10 +699,11 @@ growth of C++ from pre-1980 to 1993. I think to be a truly great C++
 programmer and understand how to use C++ effectively, you need to know much of
 what is in this book.
 
-<a name="evolving_cxx_1991_2006"/>
+<a name="evolving_c++_1991_2006"/>
 
 #### Stroustrup, Bjarne. *Evolving a language in and for the real world C++ 1991-2006*, HOPL III: Proceedings of the third ACM SIGPLAN conference on History of programming languages, AMC, New York, pages 4-1 to 4-59, 2007
 
-In this proceedings paper, Stroustrup picks up where he left off in The Design
-and Evolution of C++. This is especially a good read if you want some insight
-into the ISO C++ standardization process for C++11 and beyond.
+In this proceedings paper, Stroustrup picks up where he left off in [The
+Design and Evolution of C++](#design_and_evolution_of_c++_1994). This is
+especially a good read if you want some insight into the ISO C++
+standardization process for C++11 and beyond.
