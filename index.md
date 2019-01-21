@@ -25,12 +25,12 @@ processes and workflows for creating individual packages of sustainable
 software and sustainable ecosystems of packages shared among large distributed
 teams of developers.
 
-[Resume/CV](cv) provides a summary Roscoe's education and work experience and
-a link to his [detailed CV](cv/bartlett_roscoe_a_cv.pdf).  Also see the
+[Resume/CV](cv) provides a summary of Roscoe's education and work experience
+and a link to his [detailed CV](cv/bartlett_roscoe_a_cv.pdf).  Also see the
 listing of his [professional interests](interests) and a list of selected
 [publications and presentations](publications).  Finally, an annotated
 [reading list](reading-list) is provided for Roscoe's recommendations for
 several great books on software engineering and C++ programming.  (These books
-and the application of the principles and practices described there in
-provided a majority of Roscoe's self-taught education on C++ programming and
-software engineering.)
+and the application of the principles and practices described therein provided
+a majority of Roscoe's self-taught education on C++ programming and software
+engineering.)

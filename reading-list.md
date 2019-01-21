@@ -44,7 +44,7 @@ writing tests and some other basic software engineering best practices but it
 was minimal (after all, this was a book about a programming language, not
 software engineering).  Later in my first year of graduate school, I was
 introduced to the book [*Design Patterns*](#design_patterns_1995) by a
-Computer Science Ph.D. student at CMU.  Armed with the knowledge of C++ and
+computer science Ph.D. student at CMU.  Armed with the knowledge of C++ and
 Design Patterns, I set about writing a sizable amount of software implementing
 advanced numerical algorithms for constrained optimization as part of my
 Ph.D. work (the optimization package at that point was called
@@ -70,8 +70,8 @@ many of the software engineering best practices to my CSE projects and
 realized significant improvements in productivity and the overall quality of
 the software I was writing. However, I was also horrified to realize that,
 prior to gaining this knowledge, I had created tens of thousands of lines of
-CSE software of insufficient quality and that I was now in a position have to
-maintain.
+CSE software of insufficient quality and that I was now in a position to have
+to maintain.
 
 It is my hope that this reading list will be useful and help motivate others
 to obtain this knowledge and skills earlier in their professional careers
@@ -83,8 +83,8 @@ to obtain this knowledge and skills earlier in their professional careers
 
 Here is a set of books that I have read about general software engineering
 that is largely independent of programming language (but is biased toward
-object-oriented languages) that would recommend to anyone who is serious about
-software development.
+object-oriented languages) that I would recommend to anyone who is serious
+about software development.
 
 <a name="most_recommended_se_books"/>
 
@@ -121,7 +121,7 @@ structures, functions, classes, files, modules etc., to broader software
 engineering issues like dealing with defects, software quality engineering,
 and documentation. Steve articulates several important principles of software
 engineering like The General Principle of Software Quality (i.e., improved
-quality make software development cheaper, more predictable, and lower risk)
+quality makes software development cheaper, more predictable, and lower risk)
 and its corollaries. Since reading this book my standards for writing clean,
 clear, and robust code have gone way up. After reading this book, I now look
 at the design, structuring, and layout of software with the same level of
@@ -149,12 +149,12 @@ information that you will find in the other books listed here. I really see
 this book as the logical culmination of the books Refactoring and Test Driven
 Development. This book is packed with practical examples that show you nearly
 every trick there is for refactoring nasty code to break dependencies and
-getting code into a unit test harness. If by the time you are done reading
-this book if you are not shamed into doing unit testing then you have no
-business developing software. Before reading this book, I was not 100%
-convinced about unit testing. After reading this book, I unit test almost
-every non-trivial code as a rule and it has massively improved the quality of
-the software that I write. There is no going back for me.
+getting code into a unit test harness. By the time you are done reading this
+book if you are not shamed into doing unit testing then you have no business
+developing software. Before reading this book, I was not 100% convinced about
+unit testing. After reading this book, I unit test almost every non-trivial
+code as a rule and it has massively improved the quality of the software that
+I write. There is no going back for me.
 
 <a name="agile_software_development_2003"/>
 
@@ -164,7 +164,7 @@ After Code Complete (2nd Edition), this is the next book that I would most
 highly recommend. While Code Complete (2nd edition) covers object-oriented
 design, I feel that Martin's book does a much better job of covering the
 essence of object-orientation. In my opinion, the greatest contribution of
-this book is in Chapters 7-9, and 20. In these chapters, Martin defines eleven
+this book is in chapters 7-9, and 20. In these chapters, Martin defines eleven
 different principals of object-oriented design; five of these are related to
 individual classes, and the remaining six are related to collections of
 classes (i.e. packages). These eleven principles are:
@@ -212,7 +212,7 @@ as it is stable.
 
 These principles distill a great deal of object-orientation know-how down to
 short acronyms like OCP (Open-Closed Principle). The other chapters that
-describe many design patterns are also very useful like Chapters 13-17, 21,
+describe many design patterns are also very useful like chapters 13-17, 21,
 23-29. Some of these design patterns are the same as given in the well known
 book [*Design Patterns*](#design_patterns_1995), while others are new (at
 least to me). Even with those patterns that are the same as in Design
@@ -222,12 +222,12 @@ out. This is great stuff.
 *Disclaimer:* This book is poorly named. While the introductory chapters
 discuss Extreme Programming (XP), the remaining chapters of the book have
 little to do with XP specifically and are only mildly related to Agile methods
-in general. In fact, the discussion in Chapter 20 on packaging issues (while
+in general. In fact, the discussion in chapter 20 on packaging issues (while
 it contains great material) runs contrary to more modern Agile approaches that
 use continuous integration (see [*Continuous
 Integration*](#continuous_integration_2007)). Unless a reader is specifically
 interested in Agile methods, I would suggest that they just skim through
-Chapters 1-6. I suspect that the majority of this book was written well before
+chapters 1-6. I suspect that the majority of this book was written well before
 the Agile angle was decided on and the title was mainly a sales ploy to take
 advantage of the hot new term "Agile". Also, this book has many examples; some
 are helpful but most (at least for me) were beating a dead horse (i.e. I
@@ -246,10 +246,10 @@ iterative process. The book also deals with how to manage large-scale software
 interactions. Continuous refactoring is a major theme of the book and the
 approach is very compatible with Agile methods. I suspect that the core
 message of this book will go over the heads of most readers that are not
-deeply interested in software engineering. However, material like Chapter 10
-on "Supple Design" are more at the level of Agile Software Development and
+deeply interested in software engineering. However, material like chapter 10
+on "Supple Design" is more at the level of Agile Software Development and
 should be more practically useful to all software developers. Actually, I
-think Chapter 10 is so good that it deserves to be read even if the rest of
+think chapter 10 is so good that it deserves to be read even if the rest of
 the book is not.
 
 *Disclaimer:* This book has a large bias for IT-type domains and for
@@ -291,10 +291,10 @@ and not due to bad developers. Therefore, we should first question and improve
 the process and/or our development tools to make them more mistake-proof
 before we point our fingers at individual people for the mistakes they
 make. Simply asking people to remember more or giving them a big list of
-things they have to do is not enough. Lastly, the "Try this" section of last
-chapter "Journey" gives a great condensed summary of the whole book. If you
-read nothing else, read this last "Try this" section and go back in the book
-to look for further details and explanations.
+things they have to do is not enough. Lastly, the "Try this" section of the
+last chapter "Journey" gives a great condensed summary of the whole book. If
+you read nothing else, read this last "Try this" section and go back in the
+book to look for further details and explanations.
 
 *Disclaimer:* At the foundation for "Lean" software development is an analogy
 to the Toyota Production System (TPS) for manufacturing. As with any such
@@ -377,7 +377,7 @@ I am not wildly excited about this book but it does sharply define Test Driven
 Development (TDD) that has been shown to be so effective. This book describes
 how you can use unit (and other) tests to drive your day-to-day coding work in
 a way that makes you more productive in every way. For me, all of the really
-useful information was in the Preface, and Part III (Chapters 25-32).
+useful information was in the Preface, and Part III (chapters 25-32).
 
 *Disclaimer:* I don't like the way the dialog in this book is written. There are
 way too many examples that are used to demonstrate concepts that are
@@ -395,8 +395,8 @@ Continuous refactoring is one of the most important practices in all Agile
 programming methods, right up there with TDD. Without the ability to refactor,
 there is no DDD or incremental design (XP), or any other methodology other
 than a straight Water Fall method. Most of the book is a catalog; you can read
-the most important overview information in just a few Chapters (e.g., Preface,
-Chapters 1-4 and 13-15).
+the most important overview information in just a few chapters (e.g., Preface,
+chapters 1-4 and 13-15).
 
 <a name="continuous_integration_2007"/>
 
@@ -487,13 +487,13 @@ book goes back almost 45 years! The first 15 chapters of this 20th anniversary
 edition are exactly the same as published in the original edition in 1975.
 There are four additional chapters with some updated information as of 1995
 (when the 20th anniversary edition was published). The added chapter 18
-"Propositions of the Mythical Man Month: True of False?" is a great summary of
+"Propositions of the Mythical Man Month: True or False?" is a great summary of
 the (original) first 15 chapters. Going over these propositions, you see a
 great many of the ideas and foundations for modern (2009) Lean/Agile software
 engineering methods. It is very comforting to know that many of the principles
 in Lean/Agile methods have more than a 40 year history. Some of the best
 material in the book is where Dr. Brooks gives the essence of the joys and
-challenges of software in Chapter 1 (i.e. 1975) and also where he identifies
+challenges of software in chapter 1 (i.e. 1975) and also where he identifies
 and discusses the essential complexities in software engineering that will
 never be magically solved (in the 1995 material). What is great about the
 later 1995 material is that it is almost 100% consistent with modern (2009)
@@ -507,11 +507,11 @@ the software engineering community than the process-heavy methods of the late
 consistent with modern Lean/Agile, a good bit of it is not and Dr. Brooks
 acknowledges this in the later 1995 chapters. In particular, much of the 1975
 material assumes a variation of the Water Fall method which he strongly
-acknowledges in 1995 is a bad way to try to develop software (see Chapter
+acknowledges in 1995 is a bad way to try to develop software (see chapter
 19). In 1975, Dr. Brooks was also arguing that every developer should see
-every part of the code which he totally changed his mind on in 1995 and has
-come to believe in interfaces, specialization, and information hiding (see
-Chapter 19).
+every part of the code.  However he totally changed his mind in the 1995
+update and has come to believe in interfaces, specialization, and information
+hiding (see chapter 19).
 
 <a name="c++_books"/>
 
@@ -536,7 +536,7 @@ C++ book would be these days. In general, beware of C++ books written before
 1998 since a lot has been learned about C++ since then. Some of the books
 given below were written before 1998 so be careful of some of the advice you
 find in them. Refer to the newer books (such as Effective C++ (3rd edition)
-and C++ Coding Standards) for more current advise.
+and C++ Coding Standards) for more current advice.
 
 * [Meyers, Scott. *Effective C++ (Third Edition)*. Addison Wesley,
   2005](#effective_cxx_3rd_edition_2005)
@@ -606,7 +606,7 @@ Reference*](../publications#teuchos_cxx_mem_mng_classes)).
 
 *Disclaimer:* This book was published in 1995 (i.e., before the ISO C++ 98
 standard) and some of the material is not relevant anymore. For example, much
-of the material in Items 32, and 35 is obsolete.
+of the material in Items 32 and 35 is obsolete.
 
 <a name="recommended_c++_books"/>
 
@@ -635,8 +635,8 @@ The author gives a list of 99 items that describe a lot of the ways to get
 into trouble with C++ and how to avoid them. The fact that someone can
 actually write an entire book on "C++ Gotchas" is just another indication of
 how complex this language is and why very few people really excel in using it.
-(In some ways, it also exposes some of the languages most serious deficiencies
-that no upcoming C++ standard can fix, and still call it C++.)
+(In some ways, it also exposes some of the language's most serious
+deficiencies that no upcoming C++ standard can fix, and still call it C++.)
 
 <a name="c++_templates_2003"/>
 
@@ -704,6 +704,6 @@ what is in this book.
 #### Stroustrup, Bjarne. *Evolving a language in and for the real world C++ 1991-2006*, HOPL III: Proceedings of the third ACM SIGPLAN conference on History of programming languages, AMC, New York, pages 4-1 to 4-59, 2007
 
 In this proceedings paper, Stroustrup picks up where he left off in [The
-Design and Evolution of C++](#design_and_evolution_of_c++_1994). This is
-especially a good read if you want some insight into the ISO C++
-standardization process for C++11 and beyond.
+Design and Evolution of C++](#design_and_evolution_of_c++_1994). This is an
+especially good read if you want some insight into the ISO C++ standardization
+process for C++11 and beyond.

@@ -214,7 +214,8 @@ Urbana -Champaign. August 18, 2015 [[PPT](SomeAgileBestPracticies_20150818.pptx)
 
 Bartlett, Roscoe. *Git Workflow Building Blocks for Improved VERA Development,
 Integration, and Deployments*. Consortium for the Advanced Simulation of
-Lightwater Rectors. August 10, 2015 [[PPT](GitWorkflowsForVERA.pptx), [PDF](GitWorkflowsForVERA.pdf)]
+Lightwater Reactors. August 10, 2015 [[PPT](GitWorkflowsForVERA.pptx),
+[PDF](GitWorkflowsForVERA.pdf)]
 
 Bartlett, Roscoe. *Design Patterns for Git Workflows*. Trilinos Spring
 Developers Meeting. Albuquerque, NM. May 13, 2015 [[PPT](DesignPatternsForGitWorkflows.pptx), [PDF](DesignPatternsForGitWorkflows.pdf)]
