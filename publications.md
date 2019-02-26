@@ -183,9 +183,9 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
-Bartlett, Roscoe. "Development and Integration Workflows for Large Complex Distributed CSE Software Efforts."  SIAM Conference on Computational Science and Engineering 2019, SAND2019-2092 C,
+Bartlett, Roscoe. "Development and Integration Workflows for Large Complex Distributed CSE Software Efforts."  SIAM Conference on Computational Science and Engineering 2019, SAND2019-2092 C, [https://doi.org/10.6084/m9.figshare.7771109.v1](https://doi.org/10.6084/m9.figshare.7771109.v1),
 February 25, 2019 [[PPT](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pptx),
-[PDF](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pdf)]
+[PDF](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pdf)] ([Online](https://figshare.com/articles/Development_and_Integration_Workflows_for_Large_Complex_Distributed_CSE_Software_Efforts/7771109))
 
 Bartlett, Roscoe, Joseph R. Frye. *ATDM Trilinos Testing and Integration*.
 Trilinos Developers Meeting, October 25, 2018
@@ -196,7 +196,7 @@ Bartlett, Roscoe. *Application of TriBITS to Larger Componentized Scientific
 and Engineering Software Projects*. SIAM Computational Science & Engineering,
 March 1, 2017 [[PPT](TriBITS_SIAM_CSE17.pptx),
 [PDF](CSESSP_RoadmapForSustainableEcosystemsofCSESoftware_20151015.pdf)]
-([Current](https://www.osti.gov/servlets/purl/1425357)
+([Online](https://www.osti.gov/servlets/purl/1425357))
 
 Bartlett, Roscoe. *A Roadmap for Sustainable Ecosystems of CSE
 Software*. Computational Science and Engineering Software Sustainability and
