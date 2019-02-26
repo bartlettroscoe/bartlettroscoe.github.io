@@ -183,6 +183,10 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
+Bartlett, Roscoe. "Development and Integration Workflows for Large Complex Distributed CSE Software Efforts."  SIAM Conference on Computational Science and Engineering 2019, SAND2019-2092 C,
+February 25, 2019 [[PPT](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pptx),
+[PDF](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pdf)]
+
 Bartlett, Roscoe, Joseph R. Frye. *ATDM Trilinos Testing and Integration*.
 Trilinos Developers Meeting, October 25, 2018
 [[PPT](ATDM_Trilinos_Testsing_Integration_20181025.pptx),
