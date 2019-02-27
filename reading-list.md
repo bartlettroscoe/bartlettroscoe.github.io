@@ -11,7 +11,7 @@ I provide a brief overview of the content of each covered book and why I think
 it is useful (or essential) to read the book and what to look for in each
 book.  These books (along wtih the personal application in the following years
 of the principles and practicies presented in them) represent my basic
-education in software engineering.  Hopefully these book will help others the
+education in software engineering.  Hopefully these books will help others the
 way they helped me.
 
 **Outline:**
