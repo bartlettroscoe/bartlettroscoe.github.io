@@ -4,6 +4,8 @@ title: "When is it better not to write automated tests?"
 categories: misc
 ---
 
+## Introduction
+
 The importance of writing and maintaining strong automated tests for software is well established in the modern software engineering community (and in fact, tests will be written before the code when using test-driven development, TDD).
 But does it always pay off to write automated tests for some piece of code?
 Are there situations where one is better off not writing automated tests?
@@ -21,6 +23,8 @@ Over the years since my conversion to an Agile software engineer, I often rigoro
 There where times  under schedule pressure that I slipped and reverted back to my old ways and failed to write sufficient automated tests and came to regret it.
 However, there were also times where my overzealous drive to religiously test everything (which usually came after the guilt of a recent slip of not testing enough) where I wasted time writing automated tests that were not worth the effort.
 And now after having had followed this road from 2007 until now having written and maintained thousands of automated tests over that time, I have come to realize that there are times when it is actually better not to write automated tests for some pieces of software!
+
+## Criteria for when it is better to not add automated tests
 
 I have come to realize that it often does not pay off to write automated tests for a piece of software when the following five things are true about that software:
 
@@ -42,6 +46,8 @@ For example, some bash scripts used locally that load some modules and then conf
 
 Therefore, it is often not worth the investment to write automated tests for locally run scripts of this type.
 
+## Example where automated tests should have been added
+
 However, if such scripts are being used to automate some important process like deploying the software to users where not performing the task correctly would cause non-trivial harm, then one should write some automated tests to protect the critical functionality of the scripts.
 Or, if other people are running the scripts and it will not be obvious to them that a failure has occurred or they will not know how to fix it quickly, then one should likely write some automated tests for the scripts.
 
@@ -52,13 +58,21 @@ This wasted user's time, may have resulted in incorrect results, and damaged the
 The lesson is that some "scripts" may actually need to be considered *software* in their own right and need to have strong automated testing just like any piece of non-trivial software.
 (Just become some piece of software is written in bash or python does not mean it can be dismissed as "scripts" and avoid any automated testing.)
 
+## Notes
+
 Note that if the first four criteria above are satisfied but it is not too hard to write automated tests, then often one should write them anyway because it will make the code easier extend and to maintain going forward.
 
 Also note that adjectives like "minor", "obvious", "easy", and "hard" are all subjective and do not have precise definitions.
 For example, while for one person might consider these five criteria as "minor", "obvious", "easy", "easy" and "hard", another person may consider them "significant", "non-obvious", "not easy", "painful", and/or "tractable".
 For example, if one does not know the sensing, separation, and fake collaborators strategies for unit testing described in "Working Effectively with Legacy Code", then one might think that adding automated tests for a piece of software is "hard" while another more skilled, knowledgeable, and/or experienced developer might consider adding tests for that piece of software to be quite tractable.
 
-*Disclaimer:* Please don't use this blog article as an excuse for not writing automated tests for some piece of software by trying to convince yourself that the damage of defects will be "minor", any failures will be "obvious", or the defects will be "easy" for anyone to fix.
+## Summary
+
+While it often pays of to write a high quality automated test suite for a piece of software (i.e. reduce initial development costs and improve long-term maintenance), there are situations where it does not pay off.  Here we listed five criteria that if satisfied, it is better not to write automated tests and instead do manual testing when any changes are made to the code.
+
+## Disclaimer
+
+Please don't use this blog article as an excuse for not writing automated tests for some piece of software by trying to convince yourself that the damage of defects will be "minor", any failures will be "obvious", or the defects will be "easy" for anyone to fix.
 You might think that but your users, stakeholders, and other developers (who will need to maintain this software) may not feel the same way.
 So please use discretion when applying this criteria to some piece of software when deciding whether or not to write automated tests (and how much testing is reasonable).
 
