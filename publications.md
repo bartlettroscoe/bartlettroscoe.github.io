@@ -14,6 +14,18 @@ permalink: /publications/
 
 ## Publications
 
+Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
+Software Development and Integration Processes in Unstable Environments on the
+Path to Exascale.* 2019 International Software Engineering for Science
+Workshop, to appear, 2019
+[[Preprint](https://doi.org/10.6084/m9.figshare.8194097.v1)]
+
+Bartlett, Roscoe A., Anshu Dubey, Xiaoye Sherry Li, J. David Moulton, James
+W. Willenbring, and Ulrike M. Yang.  Book Chapter "Testing of Scientific
+Software: Impacts on Research Credibility, Development Productivity,
+Maturation, and Sustainability" in *Software Engineering for Science*.
+Chapman & Hall/CRC Computational Science, November 3, 2016
+
 Turner, John A., Kevin Clarno, Matt Sieger, Roscoe A. Bartlett, Benjamin
 Collins, Roger Pawlowski, Rodney Schmidt, and Randall Summers. *The Virtual
 Environment for Reactor Applications (VERA): Design and architecture*.
@@ -182,6 +194,12 @@ Optimization*. Lecture Notes in Computational Science and Engineering, vol 30.
 Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
+
+Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
+Software Development and Integration Processes in Unstable Environments on the
+Path to Exascale.* 2019 International Software Engineering for Science
+Workshop, 2019
+[[PPT, PDF](https://doi.org/10.6084/m9.figshare.8192177.v1)]
 
 Bartlett, Roscoe. "Development and Integration Workflows for Large Complex Distributed CSE Software Efforts."  SIAM Conference on Computational Science and Engineering 2019, SAND2019-2092 C, [https://doi.org/10.6084/m9.figshare.7771109.v1](https://doi.org/10.6084/m9.figshare.7771109.v1),
 February 25, 2019 [[PPT](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pptx),
