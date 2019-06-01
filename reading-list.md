@@ -136,25 +136,86 @@ references given below.
 
 #### Feathers, Michael. *Working Effectively with Legacy Code*. Prentice Hall, 2005
 
-This is really the book that gives me hope that we can take very bad software
-and through targeted incremental unit testing and refactoring, can turn it
-into good software while implementing and delivering new functionality the
-whole time. This book is where the rubber meets the road combining unit
-testing and refactoring. If you read the book Refactoring by Martin Fowler and
-(like me) felt a little uneasy about how this would apply to large nasty
-software projects, then Working Effectively with Legacy Code is the book for
-you. What's more, Michael mentions and reviews many of the object-oriented
-principles in Agile Software Development as well as other little bits of
-information that you will find in the other books listed here. I really see
-this book as the logical culmination of the books Refactoring and Test Driven
-Development. This book is packed with practical examples that show you nearly
-every trick there is for refactoring nasty code to break dependencies and
-getting code into a unit test harness. By the time you are done reading this
-book if you are not shamed into doing unit testing then you have no business
-developing software. Before reading this book, I was not 100% convinced about
-unit testing. After reading this book, I unit test almost every non-trivial
-code as a rule and it has massively improved the quality of the software that
-I write. There is no going back for me.
+Legacy software is very hard to modify and extend, as it often relies on obsolete software and hardware, lacks testing, and may have no developers familiar with its complexities.
+This book gives us hope that we can use targeted, incremental unit testing and refactoring to turn legacy software into better tested, understood, and extensible software while implementing and
+delivering new functionality at the same time.
+
+If you've read [*Refactoring*](#refactoring_1999) and felt a little uneasy about how this would apply to large, nasty software projects, then *Working Effectively with Legacy Code* is the book to read.
+Michael mentions and reviews many of the object-oriented principles in [*Agile Software Development*](#agile_software_development_2003) as well as other bits of information that you can find in other great books about software development.
+*Working Effectively with Legacy Code* is the logical culmination of  *Refactoring* and [*Test Driven Development*](#tdd_2003); it's where the rubber meets the road when combining unit testing and refactoring.
+
+The definition of "Legacy Code" given in this book is simple but often shocking to the uninitiated:
+
+> Legacy Code == Code Without Tests
+
+Micheal Feathers States:
+
+> Code without tests is bad code. It does not matter how well written it is; it doesn't matter how pretty or object-oriented or well-encapsulated it is. With tests, we can change the behavior of our code quickly and verifiably. Without them, we really don’t know if our code is getting better or worse.
+
+He lists four reasons to change software:
+
+* Adding a feature
+* Fixing a bug
+* Improving the design (i.e. refactoring)
+* Optimizing resource usage
+
+He argues that no matter what change is made to the code, we must always maintain other behavior that we do not intend to change. He states:
+
+> Behavior is the most important thing about software. It is what users depend on. Users like it when we add behavior (provided it is what they really wanted), but if we change or remove behavior they depend on (introduce bugs), they stop trusting us.
+
+The main contribution of this book is the *Legacy Code Change Algorithm*:
+
+1. **Identify the targeted legacy code:**
+    1. **Identify change points** for the target change or new code addition.
+    2. **Find test points** where the behavior of the code can be sensed.
+2. **Get targeted legacy code into test harness and cover with tests:**
+    1. **Break dependencies** (very carefully and often without sufficient tests) and get the targeted legacy code into a test harness.
+    2. **Cover targeted legacy code** with (characterization) unit tests.
+3. **Add new functionality with new tests** (usually following the Test Driven Development (TDD) process).
+4. **Refactor** tested code to remove duplication, clean up, etc.
+
+Step 1 defines the targeted subset of legacy code that must have tests which depend on what needs to change, what can be sensed, and where dependencies can be broken.
+After unit tests which cover the targeted code have been implemented in Step 2, it should have close to 100% coverage.
+Without full coverage, it is difficult to know if existing behavior is preserved.
+Any refactorings in Step 4 is safe to perform once the targeted code is sufficiently covered with tests.
+Refactoring is critical to improve the clarity and maintainability of the code.
+**WARNING:** The refactorings must not extend outside code that is sufficiently covered by tests!
+
+The most challenging part of the *Legacy Software Change Algorithm* is getting the targeted legacy code into a unit test harness and covering it with tests which (in more detail) includes these steps:
+
+* **Identify change points**: Find out where in the legacy code you want to make a change or add new code.
+Targeted changes should be done in small iterations so this should hopefully just be a single function or a few functions and hopefully only a single class if possible.
+
+* **Find test points**: Find out where in the code you can sense variables, or call functions, etc. such that you can detect the behavior of the code you want to change.
+You may need to add "sensing" variables to help see what you need to see in a unit test.
+
+* **Break dependencies**: Dependencies need to be broken for one of two reasons: Sensing and Separation.
+With **Sensing**, one must be able to inspect the behavior of the code that we can’t otherwise see.  While **Separation** is needed to allow the code to be run in a test harness outside of the production setting.
+Actually breaking the dependencies involves applying minimal refactorings with careful hyper-sensitive editing.
+(There are special dependency-breaking refactorings defined in this book to help with this critical task.)
+
+* **Cover legacy code with unit tests**: If you have the specification for how the targeted legacy code is supposed to work, then write tests to that specification.
+Otherwise, write "Characterization Tests" to see what the code actually does under different input scenarios.
+NOTE: When the official specification differs from the actual observed behavior of the code, go with the actual behavior for because that is what users actually depend on.
+(Differences between specified/desired behavior and actual behavior can be addressed in later iterations if one desires breaking backward compatibility.)
+
+Finally, another major contribution of this book is in detailing the strategies that can be used in the various steps of the Legacy Code Change Algorithm which include:
+
+* **Faking Collaborators:**  Needed to get targeted code into a unit test harness and drive unit tests.:
+  - **Fake Objects**: Impersonates a collaborator to allow sensing and control.
+  - **Mock Objects**: Extended Fake Objects that asserts expected behavior.
+* **Seams**: Ways of inserting test-related code:
+  - **Preprocessing Seams**: Preprocessor macros to replace functions, replace header files, etc.
+  - **Link Seams**: Replace implementation functions (program or system) to define behavior or sense changes.
+  - **Object Seams**: Define interfaces and replace production objects with mock or fake objects in a test harness. (NOTE: Prefer object seams to link or preprocessing seams!)
+
+The Legacy Code Change Algorithm is applied in many small iterations over and over again as pieces of the legacy software are changed.
+Over time, these small incremental refactorings can result in significant improvements to the quality and sustainability of the software and can even perform major (beneficial) architectural changes.
+In fact, at some point, the software may have improved to the point where there is enough strong testing that it is no longer considered legacy code!
+
+This book is packed with practical examples that show nearly every trick there is for refactoring nasty code to break dependencies and getting code into a unit test harness.
+After reading this book, you should be convinced of the need for unit testing and TDD.
+
 
 <a name="agile_software_development_2003"/>
 
