@@ -195,15 +195,25 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
+Bartlett, Roscoe A.  *Staying on top of a lot of CDash builds/tests:
+cdash_analyze_and_report.py*, SAND2019-13824 C, Trilinos Developers Meeting,
+October 23, 2019 [[PPT](CDashAnalylzeAndReport_20191023.pptx),
+[PDF](CDashAnalylzeAndReport_20191023.pdf)]
+
 Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
 Software Development and Integration Processes in Unstable Environments on the
 Path to Exascale.* 2019 International Software Engineering for Science
 Workshop, 2019
 [[PPT, PDF](https://doi.org/10.6084/m9.figshare.8192177.v1)]
 
-Bartlett, Roscoe. "Development and Integration Workflows for Large Complex Distributed CSE Software Efforts."  SIAM Conference on Computational Science and Engineering 2019, SAND2019-2092 C, [https://doi.org/10.6084/m9.figshare.7771109.v1](https://doi.org/10.6084/m9.figshare.7771109.v1),
-February 25, 2019 [[PPT](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pptx),
-[PDF](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pdf)] ([Online](https://figshare.com/articles/Development_and_Integration_Workflows_for_Large_Complex_Distributed_CSE_Software_Efforts/7771109))
+Bartlett, Roscoe. *Development and Integration Workflows for Large Complex
+Distributed CSE Software Efforts.* SIAM Conference on Computational Science
+and Engineering 2019, SAND2019-2092 C,
+[https://doi.org/10.6084/m9.figshare.7771109.v1](https://doi.org/10.6084/m9.figshare.7771109.v1),
+February 25, 2019
+[[PPT](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pptx),
+[PDF](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pdf)]
+([Online](https://figshare.com/articles/Development_and_Integration_Workflows_for_Large_Complex_Distributed_CSE_Software_Efforts/7771109))
 
 Bartlett, Roscoe, Joseph R. Frye. *ATDM Trilinos Testing and Integration*.
 Trilinos Developers Meeting, October 25, 2018
