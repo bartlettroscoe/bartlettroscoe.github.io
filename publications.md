@@ -93,6 +93,7 @@ Research-based Computational Science and Engineering Software*. Proceedings of
 the First Workshop on Maintainable Software Practices in e-Science, part of
 the IEEE International Conference on eScience 2012. October 2012
 [[PDF](TribitsLifecycleModel_eScience_2012.pdf)]
+([oneline](https://ieeexplore.ieee.org/document/6404448))
 
 Bartlett, Roscoe, Michael Heroux, and Jim Willenbring. *TriBITS Lifecycle
 Model Version 1.0: A Lean/Agile Software Lifecycle Model for Research-based
