@@ -16,9 +16,8 @@ permalink: /publications/
 
 Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
 Software Development and Integration Processes in Unstable Environments on the
-Path to Exascale.* 2019 International Software Engineering for Science
-Workshop, to appear, 2019
-[[Preprint](https://doi.org/10.6084/m9.figshare.8194097.v1)]
+Path to Exascale.* 2019 IEEE/ACM 14th International Workshop on Software Engineering for Science (SE4Science), 2019
+[[Online](https://doi.org/10.1109/SE4Science.2019.00007)]
 
 Bartlett, Roscoe A., Anshu Dubey, Xiaoye Sherry Li, J. David Moulton, James
 W. Willenbring, and Ulrike M. Yang.  Book Chapter "Testing of Scientific
