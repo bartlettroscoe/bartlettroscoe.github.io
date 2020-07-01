@@ -14,6 +14,10 @@ permalink: /publications/
 
 ## Publications
 
+Bartlett, Roscoe A. *Restoring productivity through the advanced usage of Git.* [Collegeville Workshop 2020](https://collegeville.github.io/CW20), July 21-23, 2020 [[Online](https://doi.org/10.6084/m9.figshare.12594563.v1)]
+
+Bartlett, Roscoe A., Joseph R. Frye, and Evan C. Harvey. *Improved productivity through standardized configurations and testing of Trilinos on advanced platforms.* [Collegeville Workshop 2020](https://collegeville.github.io/CW20), July 21-23, 2020 [[Online](https://doi.org/10.6084/m9.figshare.12594494.v1)]
+
 Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
 Software Development and Integration Processes in Unstable Environments on the
 Path to Exascale.* 2019 IEEE/ACM 14th International Workshop on Software Engineering for Science (SE4Science), 2019
