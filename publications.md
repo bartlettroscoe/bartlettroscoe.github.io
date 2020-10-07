@@ -232,6 +232,13 @@ March 1, 2017 [[PPT](TriBITS_SIAM_CSE17.pptx),
 [PDF](CSESSP_RoadmapForSustainableEcosystemsofCSESoftware_20151015.pdf)]
 ([Online](https://www.osti.gov/servlets/purl/1425357))
 
+Bartlett, Roscoe. *The application of TriBITS to the Software Development and
+Integration Processes of Larger Componentized Multi-Organization Scientific
+and Engineering Software Projects*, Sandia Computational Science Seminar
+Series, SAND2018-11082 PE, June 9, 2016
+[[PPTX](TriBITS_MultiRepo_20160609.pptx),
+[PDF](TriBITS_MultiRepo_20160609.pdf)]
+
 Bartlett, Roscoe. *A Roadmap for Sustainable Ecosystems of CSE
 Software*. Computational Science and Engineering Software Sustainability and
 Productivity Challenges (CSESSP) Workshop, October 16, 2015
