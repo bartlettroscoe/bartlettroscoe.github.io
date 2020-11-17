@@ -14,11 +14,11 @@ permalink: /publications/
 
 ## Publications
 
-Bartlett, Roscoe A. *Restoring productivity through the advanced usage of Git.* [Collegeville Workshop 2020](https://collegeville.github.io/CW20), July 21-23, 2020 [[Online](https://doi.org/10.6084/m9.figshare.12594563.v1)]
+Bartlett, Roscoe A. *Restoring productivity through the advanced usage of Git.* [Collegeville Workshop 2020](https://collegeville.github.io/CW20), July 21-23, 2020 [[Online](https://doi.org/10.6084/m9.figshare.12594563)]
 
-Bartlett, Roscoe A., Joseph R. Frye, and Evan C. Harvey. *Improved productivity through standardized configurations and testing of Trilinos on advanced platforms.* [Collegeville Workshop 2020](https://collegeville.github.io/CW20), July 21-23, 2020 [[Online](https://doi.org/10.6084/m9.figshare.12594494.v1)]
+Bartlett, Roscoe A., Joseph R. Frye, and Evan C. Harvey. *Improved productivity through standardized configurations and testing of Trilinos on advanced platforms.* [Collegeville Workshop 2020](https://collegeville.github.io/CW20), July 21-23, 2020 [[Online](https://doi.org/10.6084/m9.figshare.12594494)]
 
-Bartlett, Roscoe A. *Componentized hierarchical build and test infrastructure and processes for CASL VERA.* American Nucler Society Winter Meeting 2020, November 16-19, 2020 [[Preprint](https://doi.org/10.6084/m9.figshare.12774515.v1)]
+Bartlett, Roscoe A. *Componentized hierarchical build and test infrastructure and processes for CASL VERA.* American Nucler Society Winter Meeting 2020, November 16-19, 2020 [[Preprint](https://doi.org/10.6084/m9.figshare.12774515)]
 
 Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
 Software Development and Integration Processes in Unstable Environments on the
@@ -210,12 +210,12 @@ Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
 Software Development and Integration Processes in Unstable Environments on the
 Path to Exascale.* 2019 International Software Engineering for Science
 Workshop, 2019
-[[PPT, PDF](https://doi.org/10.6084/m9.figshare.8192177.v1)]
+[[PPT, PDF](https://doi.org/10.6084/m9.figshare.8192177)]
 
 Bartlett, Roscoe. *Development and Integration Workflows for Large Complex
 Distributed CSE Software Efforts.* SIAM Conference on Computational Science
 and Engineering 2019, SAND2019-2092 C,
-[https://doi.org/10.6084/m9.figshare.7771109.v1](https://doi.org/10.6084/m9.figshare.7771109.v1),
+[https://doi.org/10.6084/m9.figshare.7771109](https://doi.org/10.6084/m9.figshare.7771109),
 February 25, 2019
 [[PPT](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pptx),
 [PDF](SIAMCSE19_DevIntegrationWorkflowsForCSEProjects.pdf)]
