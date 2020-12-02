@@ -212,9 +212,13 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
+Bartlett, Roscoe A. *CASL VERA Infrastructure - TriBITS.* SAND2020-13470 C,
+American Nucler Society Winter Meeting 2020, November 18, 2020
+[[Oneline](https://doi.org/10.6084/m9.figshare.13322648)]
+
 Bartlett, Roscoe A. *Componentized hierarchical build and test infrastructure
 and processes for CASL VERA.* SAND2020-13467 C , American Nucler Society
-Winter Meeting 2020, November 16-19, 2020
+Winter Meeting 2020, November 17, 2020
 [[Oneline](https://doi.org/10.6084/m9.figshare.12774515)]
 
 Bartlett, Roscoe A.  *Staying on top of a lot of CDash builds/tests:
