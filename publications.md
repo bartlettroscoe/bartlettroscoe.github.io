@@ -14,15 +14,25 @@ permalink: /publications/
 
 ## Publications
 
-Bartlett, Roscoe A. *Restoring productivity through the advanced usage of Git.* [Collegeville Workshop 2020](https://collegeville.github.io/CW20), July 21-23, 2020 [[Online](https://doi.org/10.6084/m9.figshare.12594563)]
+Bartlett, Roscoe A. *Restoring productivity through the advanced usage of
+Git.* [Collegeville Workshop 2020](https://collegeville.github.io/CW20), July
+21-23, 2020 [[Online](https://doi.org/10.6084/m9.figshare.12594563)]
 
-Bartlett, Roscoe A., Joseph R. Frye, and Evan C. Harvey. *Improved productivity through standardized configurations and testing of Trilinos on advanced platforms.* [Collegeville Workshop 2020](https://collegeville.github.io/CW20), July 21-23, 2020 [[Online](https://doi.org/10.6084/m9.figshare.12594494)]
+Bartlett, Roscoe A., Joseph R. Frye, and Evan C. Harvey. *Improved
+productivity through standardized configurations and testing of Trilinos on
+advanced platforms.* [Collegeville Workshop
+2020](https://collegeville.github.io/CW20), July 21-23, 2020
+[[Online](https://doi.org/10.6084/m9.figshare.12594494)]
 
-Bartlett, Roscoe A. *Componentized hierarchical build and test infrastructure and processes for CASL VERA.* American Nucler Society Winter Meeting 2020, November 16-19, 2020 [[Preprint](https://doi.org/10.6084/m9.figshare.12774515)]
+Bartlett, Roscoe A. *Componentized hierarchical build and test infrastructure
+and processes for CASL VERA.* American Nucler Society Winter Meeting 2020,
+November 16-19, 2020
+[[Preprint](https://doi.org/10.6084/m9.figshare.12774515)]
 
 Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
 Software Development and Integration Processes in Unstable Environments on the
-Path to Exascale.* 2019 IEEE/ACM 14th International Workshop on Software Engineering for Science (SE4Science), 2019
+Path to Exascale.* 2019 IEEE/ACM 14th International Workshop on Software
+Engineering for Science (SE4Science), 2019
 [[Online](https://doi.org/10.1109/SE4Science.2019.00007)]
 
 Bartlett, Roscoe A., Anshu Dubey, Xiaoye Sherry Li, J. David Moulton, James
@@ -199,7 +209,13 @@ Ghattas O., van Bloemen Waanders B. (eds) *Large-Scale PDE-Constrained
 Optimization*. Lecture Notes in Computational Science and Engineering, vol 30.
 Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
+
 ## Presentations
+
+Bartlett, Roscoe A. *Componentized hierarchical build and test infrastructure
+and processes for CASL VERA.* SAND2020-13467 C , American Nucler Society
+Winter Meeting 2020, November 16-19, 2020
+[[Oneline](https://doi.org/10.6084/m9.figshare.12774515)]
 
 Bartlett, Roscoe A.  *Staying on top of a lot of CDash builds/tests:
 cdash_analyze_and_report.py*, SAND2019-13824 C, Trilinos Developers Meeting,
@@ -371,7 +387,6 @@ Bartlett, Roscoe. *Overview of the Vertical Integration of Trilinos Solver
 Algorithms in a Production Application Code*. SIAM Parallel Computing
 Conference, Atlanta, March 13, 2008 [[PPT](SIAM_PP08_VerticalIntegrationOverview_20080313.ppt), [PDF](SIAM_PP08_VerticalIntegrationOverview_20080313.pdf)]
 
-
 Bartlett, Roscoe. *Teuchos::RCP: An Introduction to the Trilinos Smart
 Reference-Counted Pointer Class for (Almost) Automatic Dynamic Memory
 Management in C++*. SAND2005-4855P, Sandia National Laboratories, 2005
@@ -395,6 +410,7 @@ Meeting, Sandia National Laboratories, November 2007 [[PPT](TUG2007_Thyra_Implic
 Bartlett, Roscoe. *FY07 ASC Vertical Integration Milestone: Overview, Lessons
 Learned, and Next Steps*. SAND2007-7401C, 2007 Trilinos User's Group Meeting,
 Sandia National Laboratories, November 2007 [[PPT](TUG2007_MilestoneLessonsLearned.ppt), [PDF](TUG2007_MilestoneLessonsLearned.pdf)]
+
 
 ## Helpful Documents
 
