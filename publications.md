@@ -29,6 +29,10 @@ and processes for CASL VERA.* American Nucler Society Winter Meeting 2020,
 November 16-19, 2020
 [[Preprint](https://doi.org/10.6084/m9.figshare.12774515)]
 
+Bartlett, Roscoe A. *When NOT to Write Automated Tests?* Better Scientific
+Software ([bssw.io](https://bssw.io/)), July 29, 2019
+[[Online](https://bssw.io/blog_posts/when-not-to-write-automated-tests)]
+
 Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
 Software Development and Integration Processes in Unstable Environments on the
 Path to Exascale.* 2019 IEEE/ACM 14th International Workshop on Software
