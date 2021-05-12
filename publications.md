@@ -221,6 +221,12 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
+Bartlett, Roscoe A. *Using Advanced Git Workflows to Address Difficult
+Development and Integration Challenges.* SAND2021-5784 C. [SIAM Computational
+Science and Engineering
+2021](https://www.siam.org/conferences/cm/conference/cse21), March 4, 2021
+[[Online](https://doi.org/10.6084/m9.figshare.14153123)]
+
 Bartlett, Roscoe A. *CASL VERA Infrastructure - TriBITS.* SAND2020-13470 C,
 American Nucler Society Winter Meeting 2020, November 18, 2020
 [[Oneline](https://doi.org/10.6084/m9.figshare.13322648)]
