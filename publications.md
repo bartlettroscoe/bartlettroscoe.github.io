@@ -14,6 +14,11 @@ permalink: /publications/
 
 ## Publications
 
+Bartlett, Roscoe A and Zack Galbreath. *Accomplishments of Sandia and Kitware
+CMake/CTest/CDash Contract for Fiscal Years 2017 through 2020.* SAND2021-5785.
+Sandia National Laboratories. May 2021
+[[Online](https://doi.org/10.6084/m9.figshare.14575947)]
+
 Bartlett, Roscoe A. *Restoring productivity through the advanced usage of
 Git.* [Collegeville Workshop 2020](https://collegeville.github.io/CW20), July
 21-23, 2020 [[Online](https://doi.org/10.6084/m9.figshare.12594563)]
