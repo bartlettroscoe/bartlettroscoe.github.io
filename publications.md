@@ -229,17 +229,16 @@ Science and Engineering
 
 Bartlett, Roscoe A. *CASL VERA Infrastructure - TriBITS.* SAND2020-13470 C,
 American Nucler Society Winter Meeting 2020, November 18, 2020
-[[Oneline](https://doi.org/10.6084/m9.figshare.13322648)]
+[[Online](https://doi.org/10.6084/m9.figshare.13322648)]
 
 Bartlett, Roscoe A. *Componentized hierarchical build and test infrastructure
 and processes for CASL VERA.* SAND2020-13467 C , American Nucler Society
 Winter Meeting 2020, November 17, 2020
-[[Oneline](https://doi.org/10.6084/m9.figshare.12774515)]
+[[Online](https://doi.org/10.6084/m9.figshare.12774515)]
 
 Bartlett, Roscoe A.  *Staying on top of a lot of CDash builds/tests:
 cdash_analyze_and_report.py*, SAND2019-13824 C, Trilinos Developers Meeting,
-October 23, 2019 [[PPT](CDashAnalylzeAndReport_20191023.pptx),
-[PDF](CDashAnalylzeAndReport_20191023.pdf)]
+October 23, 2019 [[Online](https://doi.org/10.6084/m9.figshare.16434864)]
 
 Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
 Software Development and Integration Processes in Unstable Environments on the
