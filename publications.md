@@ -221,6 +221,8 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
+Bartlett, Roscoe A. *TriBITS Modernization.*, SAND2021-15212 PE, [Trilinos Users Group Meeting, Developers Day 2021](https://trilinos.github.io/trilinos_user-developer_group_meeting_2021.html) [[Online](https://doi.org/10.6084/m9.figshare.17152754)]
+
 Bartlett, Roscoe A. *Using Advanced Git Workflows to Address Difficult
 Development and Integration Challenges.* SAND2021-5784 C. [SIAM Computational
 Science and Engineering
