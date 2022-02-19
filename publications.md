@@ -14,6 +14,11 @@ permalink: /publications/
 
 ## Publications
 
+Bartlett, Roscoe A. *More Robust and Portable Software Builds for the DOE
+Software Ecosystem.* SAND2021-15608 O.  Sandia National Laboratories. December
+2021 [[DOI](https://doi.org/10.6084/m9.figshare.14575947),
+[osti.gov](https://www.osti.gov/servlets/purl/1843576)]
+
 Bartlett, Roscoe A and Zack Galbreath. *Accomplishments of Sandia and Kitware
 CMake/CTest/CDash Contract for Fiscal Years 2017 through 2020.* SAND2021-5785.
 Sandia National Laboratories. May 2021
