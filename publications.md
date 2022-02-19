@@ -22,32 +22,32 @@ Software Ecosystem.* SAND2021-15608 O.  Sandia National Laboratories. December
 Bartlett, Roscoe A and Zack Galbreath. *Accomplishments of Sandia and Kitware
 CMake/CTest/CDash Contract for Fiscal Years 2017 through 2020.* SAND2021-5785.
 Sandia National Laboratories. May 2021
-[[Online](https://doi.org/10.6084/m9.figshare.14575947)]
+[[DOI](https://doi.org/10.6084/m9.figshare.14575947)]
 
 Bartlett, Roscoe A. *Restoring productivity through the advanced usage of
 Git.* [Collegeville Workshop 2020](https://collegeville.github.io/CW20), July
-21-23, 2020 [[Online](https://doi.org/10.6084/m9.figshare.12594563)]
+21-23, 2020 [[DOI](https://doi.org/10.6084/m9.figshare.12594563)]
 
 Bartlett, Roscoe A., Joseph R. Frye, and Evan C. Harvey. *Improved
 productivity through standardized configurations and testing of Trilinos on
 advanced platforms.* [Collegeville Workshop
 2020](https://collegeville.github.io/CW20), July 21-23, 2020
-[[Online](https://doi.org/10.6084/m9.figshare.12594494)]
+[[DOI](https://doi.org/10.6084/m9.figshare.12594494)]
 
 Bartlett, Roscoe A. *Componentized hierarchical build and test infrastructure
 and processes for CASL VERA.* American Nucler Society Winter Meeting 2020,
 November 16-19, 2020
-[[Preprint](https://doi.org/10.6084/m9.figshare.12774515)]
+[[DOI](https://doi.org/10.6084/m9.figshare.12774515)]
 
 Bartlett, Roscoe A. *When NOT to Write Automated Tests?* Better Scientific
 Software ([bssw.io](https://bssw.io/)), July 29, 2019
-[[Online](https://bssw.io/blog_posts/when-not-to-write-automated-tests)]
+[[DOI](https://bssw.io/blog_posts/when-not-to-write-automated-tests)]
 
 Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
 Software Development and Integration Processes in Unstable Environments on the
 Path to Exascale.* 2019 IEEE/ACM 14th International Workshop on Software
 Engineering for Science (SE4Science), 2019
-[[Online](https://doi.org/10.1109/SE4Science.2019.00007)]
+[[DOI](https://doi.org/10.1109/SE4Science.2019.00007)]
 
 Bartlett, Roscoe A., Anshu Dubey, Xiaoye Sherry Li, J. David Moulton, James
 W. Willenbring, and Ulrike M. Yang.  Book Chapter "Testing of Scientific
@@ -60,7 +60,7 @@ Collins, Roger Pawlowski, Rodney Schmidt, and Randall Summers. *The Virtual
 Environment for Reactor Applications (VERA): Design and architecture*.
 Journal of Computational Physics, V. 326, p. 544-568, 2016
 [[PDF](1537555953658-VERA_JCP_10.1016_j.jcp.2016.09.003.pdf)]
-([Current](http://dx.doi.org/10.1016/j.jcp.2016.09.003))
+([DOI](http://dx.doi.org/10.1016/j.jcp.2016.09.003))
 
 [comment]: <> (SAND No: SAND2018-12418 J)
 
@@ -226,32 +226,32 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
-Bartlett, Roscoe A. *TriBITS Modernization.*, SAND2021-15212 PE, [Trilinos Users Group Meeting, Developers Day 2021](https://trilinos.github.io/trilinos_user-developer_group_meeting_2021.html) [[Online](https://doi.org/10.6084/m9.figshare.17152754)]
+Bartlett, Roscoe A. *TriBITS Modernization.*, SAND2021-15212 PE, [Trilinos Users Group Meeting, Developers Day 2021](https://trilinos.github.io/trilinos_user-developer_group_meeting_2021.html) [[DOI](https://doi.org/10.6084/m9.figshare.17152754)]
 
 Bartlett, Roscoe A. *Using Advanced Git Workflows to Address Difficult
 Development and Integration Challenges.* SAND2021-5784 C. [SIAM Computational
 Science and Engineering
 2021](https://www.siam.org/conferences/cm/conference/cse21), March 4, 2021
-[[Online](https://doi.org/10.6084/m9.figshare.14153123)]
+[[DOI](https://doi.org/10.6084/m9.figshare.14153123)]
 
 Bartlett, Roscoe A. *CASL VERA Infrastructure - TriBITS.* SAND2020-13470 C,
 American Nucler Society Winter Meeting 2020, November 18, 2020
-[[Online](https://doi.org/10.6084/m9.figshare.13322648)]
+[[DOI](https://doi.org/10.6084/m9.figshare.13322648)]
 
 Bartlett, Roscoe A. *Componentized hierarchical build and test infrastructure
 and processes for CASL VERA.* SAND2020-13467 C , American Nucler Society
 Winter Meeting 2020, November 17, 2020
-[[Online](https://doi.org/10.6084/m9.figshare.12774515)]
+[[DOI](https://doi.org/10.6084/m9.figshare.12774515)]
 
 Bartlett, Roscoe A.  *Staying on top of a lot of CDash builds/tests:
 cdash_analyze_and_report.py*, SAND2019-13824 C, Trilinos Developers Meeting,
-October 23, 2019 [[Online](https://doi.org/10.6084/m9.figshare.16434864)]
+October 23, 2019 [[DOI](https://doi.org/10.6084/m9.figshare.16434864)]
 
 Bartlett, Roscoe A., and Joseph R. Frye. *Creating Stable Productive CSE
 Software Development and Integration Processes in Unstable Environments on the
 Path to Exascale.* 2019 International Software Engineering for Science
 Workshop, 2019
-[[PPT, PDF](https://doi.org/10.6084/m9.figshare.8192177)]
+[[DOI](https://doi.org/10.6084/m9.figshare.8192177)]
 
 Bartlett, Roscoe. *Development and Integration Workflows for Large Complex
 Distributed CSE Software Efforts.* SIAM Conference on Computational Science
