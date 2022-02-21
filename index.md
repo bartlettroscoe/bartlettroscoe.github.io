@@ -8,7 +8,10 @@
 layout: home
 ---
 
-| ![Roscoe A. Bartlett, Ph.D.](RoscoeABartlettPhoto.jpg) | **Roscoe A. Bartlett, Ph.D.**<br>Computational Software Engineer and Researcher<br>***Employer:*** [Sandia National Laboratories](https://www.sandia.gov/)<br>***Work website:***: [www.cs.sandia.gov/cr-rabartl](http://www.cs.sandia.gov/cr-rabartl)<br>***Personal Website:*** [bartlettroscoe.github.io](https://bartlettroscoe.github.io)<br>***Work Email:*** [rabartl@sandia.gov](mailto:rabartl@sandia.gov)<br>***Phone***: 1-240-600-4172 |
+
+
+
+| <img src="Bartlett_Roscoe_Headshot_2022-02-21.jpg" width="200"/> | **Roscoe A. Bartlett, Ph.D.**<br>Computational Software Engineer and Researcher<br>***Employer:*** [Sandia National Laboratories](https://www.sandia.gov/)<br>***Work website:***: [www.cs.sandia.gov/cr-rabartl](http://www.cs.sandia.gov/cr-rabartl)<br>***Personal Website:*** [bartlettroscoe.github.io](https://bartlettroscoe.github.io)<br>***Work Email:*** [rabartl@sandia.gov](mailto:rabartl@sandia.gov)<br>***Phone***: 1-240-600-4172 |
 
 [comment]: <> (NOTE: the above single line for the figure and the side text is necessary for the formatting to work.  Any newline breaks this.)
 
