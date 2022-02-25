@@ -226,6 +226,13 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
+Bartlett, Roscoe A. *Challenges and Possible Solutions to Sustainable Build,
+Test, and Integration Processes in CSE Software Ecosystems.* [SIAM Parallel
+Processing for Scientific Computing
+2022](https://www.siam.org/conferences/cm/conference/pp22).  SAND2022-2272 C.
+Sandia National Laboratories. February 2022
+[[DOI](https://doi.org/10.6084/m9.figshare.19241715)]
+
 Bartlett, Roscoe A. *TriBITS Modernization.*, SAND2021-15212 PE, [Trilinos Users Group Meeting, Developers Day 2021](https://trilinos.github.io/trilinos_user-developer_group_meeting_2021.html) [[DOI](https://doi.org/10.6084/m9.figshare.17152754)]
 
 Bartlett, Roscoe A. *Using Advanced Git Workflows to Address Difficult
