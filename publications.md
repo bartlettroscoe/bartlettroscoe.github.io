@@ -226,6 +226,12 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
+Bartlett, Roscoe A., Bill Hoffman, and Brad King. *A new CMake Scripting
+Language?*, [2022 Tri-lab Advanced Simulation & Computing, Sustainable
+Scientific Software Conference](https://s3c.sandia.gov/). SAND2022-7018 C. May
+24, 2022. [DOI:
+10.5281/zenodo.6578790](https://doi.org/10.5281/zenodo.6578790)
+
 Bartlett, Roscoe A. *Challenges and Possible Solutions to Sustainable Build,
 Test, and Integration Processes in CSE Software Ecosystems.* [SIAM Parallel
 Processing for Scientific Computing
