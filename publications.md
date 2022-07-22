@@ -14,6 +14,11 @@ permalink: /publications/
 
 ## Publications
 
+Bartlett, Roscoe A. *OpenSSF Best Practices Badge Program.* Better Scientific
+Software ([bssw.io](https://bssw.io)). SAND2022-10015 O.  Sandia National
+Laboratories. June 2022
+[[online](https://bssw.io/items/openssf-best-practices-badge-program)]
+
 Bartlett, Roscoe A. *More Robust and Portable Software Builds for the DOE
 Software Ecosystem.* SAND2021-15608 O.  Sandia National Laboratories. December
 2021 [[DOI](https://doi.org/10.6084/m9.figshare.19203455),
