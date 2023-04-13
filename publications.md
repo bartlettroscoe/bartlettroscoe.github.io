@@ -231,6 +231,13 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
+Bartlett, Roscoe A. *Some Challenges and Opportunities in Software Engineering
+in Computational Science and Engineering*.  Guest lecture [University of
+Michigan Software Engineering course EECS
+481](https://web.eecs.umich.edu/~xwangsd/courses/w23/index.html). SAND2023-02110A. April
+12, 2023. [DOI:
+10.5281/zenodo.7826894](https://doi.org/10.5281/zenodo.7826894)
+
 Bartlett, Roscoe A., Bill Hoffman, and Brad King. *A new CMake Scripting
 Language?*, [2022 Tri-lab Advanced Simulation & Computing, Sustainable
 Scientific Software Conference](https://s3c.sandia.gov/). SAND2022-7018 C. May
