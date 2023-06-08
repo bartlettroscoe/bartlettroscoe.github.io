@@ -170,11 +170,6 @@ Bartlett, Roscoe. *Mathematical and High-Level Overview of MOOCHO: The
 Multifunctional Object-Oriented arCHitecture for Optimization*. SAND2009-3969,
 Sandia National Laboratories. June 2009 [[PDF](MoochoOverview.pdf)]
 
-Bartlett, Roscoe. *Integration Strategies for Computational Science &
-Engineering Software*. 2009-0655, Second International Workshop on Software
-Engineering for Computational Science and Engineering, 2009
-[[PDF](CSE_SoftwareIntegration_Strategies.pdf)]
-
 Bartlett, Roscoe. *Teuchos::RCP Beginner's Guide (An Introduction to the
 Trilinos Smart Reference-Counted Pointer Class for (Almost) Automatic Dynamic
 Memory Management in C++)*. SAND2004-3268, Sandia National Laboratories, 2007
@@ -388,9 +383,9 @@ Capability Area Overview*. 2009-7512P, Trilinos Users Group Meeting 2009,
 Albuquerque, NM, November 3, 2009 [[PPT](TUG20091103_SoftwareEngineeringCapabilitiesArea.ppt), [PDF](TUG20091103_SoftwareEngineeringCapabilitiesArea.pdf)]
 
 Bartlett, Roscoe. *Integration Strategies for Computational Science and
-Engineering Software*. 2009-0655 C, Second International Workshop and Software
+Engineering Software*. 2009-0655C, Second International Workshop and Software
 Engineering for Computational Science & Engineering, Vancouver, Canada, May
-23, 2009 [[PPT](SECSE20090523_IntegrationStrategiesForCSESoftware_bartlett.ppt), [PDF](SECSE20090523_IntegrationStrategiesForCSESoftware_bartlett.pdf)]
+23, 2009 [[oneline](https://doi.org/10.6084/m9.figshare.23397863)]
 
 Bartlett, Roscoe. *Almost Continuous Integration for the Co-Development of
 Highly Integrated Applications and Third Party Libraries*. 2009-1114P, Sandia
