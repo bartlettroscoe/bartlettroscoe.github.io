@@ -226,6 +226,10 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
+Bartlett, Roscoe A. *The OpenSSF Best Practices Badge Program*. HPC Best
+Practices Webinar Series. SAND2023-04819O. June 14, 2023 DOI:
+[10.6084/m9.figshare.23978868](https://doi.org/10.6084/m9.figshare.23978868)
+
 Bartlett, Roscoe A. *Some Challenges and Opportunities in Software Engineering
 in Computational Science and Engineering*.  Guest lecture [University of
 Michigan Software Engineering course EECS
