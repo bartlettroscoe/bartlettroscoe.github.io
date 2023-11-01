@@ -226,6 +226,12 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 ## Presentations
 
+Bartlett, Roscoe A. *An Overview of Agile Software Development Technical
+Practices and Reviving Legacy Software*.  Sandia National Laboratories
+Post-Doc and Early Career Seminar Series. SAND2023-11235O. October, 12
+2023. [DOI:
+doi.org/10.6084/m9.figshare.24418330](https://doi.org/10.6084/m9.figshare.24418330)
+
 Bartlett, Roscoe A. *The OpenSSF Best Practices Badge Program*. HPC Best
 Practices Webinar Series. SAND2023-04819O. June 14, 2023 DOI:
 [10.6084/m9.figshare.23978868](https://doi.org/10.6084/m9.figshare.23978868)
