@@ -14,12 +14,6 @@ permalink: /publications/
 
 ## Publications
 
-Bartlett, Roscoe A. *Modern TriBITS 2023.* Better Scientific Software
-([bssw.io](https://bssw.io)). [Trilinos User Group Meeting
-2023](https://trilinos.github.io/trilinos_user-developer_group_meeting_2023.html).
-SAND2023-12000C.  Sandia National Laboratories. November 2, 2023
-[[DOI](https://doi.org/10.6084/m9.figshare.24495691.v1)]
-
 Bartlett, Roscoe A. *OpenSSF Best Practices Badge Program.* Better Scientific
 Software ([bssw.io](https://bssw.io)). SAND2022-10015 O.  Sandia National
 Laboratories. June 2022
@@ -231,6 +225,12 @@ Springer, Berlin, Heidelberg, 2003 [[PDF](rSQPxx_2003.pdf)]
 
 
 ## Presentations
+
+Bartlett, Roscoe A. *Modern TriBITS 2023.* Better Scientific Software
+([bssw.io](https://bssw.io)). [Trilinos User Group Meeting
+2023](https://trilinos.github.io/trilinos_user-developer_group_meeting_2023.html).
+SAND2023-12000C.  Sandia National Laboratories. November 2, 2023
+[[DOI](https://doi.org/10.6084/m9.figshare.24495691.v1)]
 
 Bartlett, Roscoe A. *An Overview of Agile Software Development Technical
 Practices and Reviving Legacy Software*.  Sandia National Laboratories
