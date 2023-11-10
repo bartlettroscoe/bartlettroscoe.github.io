@@ -9,8 +9,8 @@ software engineering that I (Roscoe Bartlett) have read over the years,
 especially during a particularly intense period in the 2007-2008 time frame.
 I provide a brief overview of the content of each covered book and why I think
 it is useful (or essential) to read the book and what to look for in each
-book.  These books (along wtih the personal application in the following years
-of the principles and practicies presented in them) represent my basic
+book.  These books (along with the personal application in the following years
+of the principles and practices presented in them) represent my basic
 education in software engineering.  Hopefully these books will help others the
 way they helped me.
 
@@ -732,7 +732,7 @@ that you can find it when you need specific information.
 
 This is a very old book on C++, the oldest that I mention in this list of
 references. This book was meant to provide the starting point for what would
-become the first offical C++98 standard. What is useful about this book is
+become the first official C++98 standard. What is useful about this book is
 that is provides very low-level details on the inner workings of C++ and gives
 lots of examples of how C++ compilers implement common language features. For
 instance, if you want to know how virtual functions are commonly implemented
