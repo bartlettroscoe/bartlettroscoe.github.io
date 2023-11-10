@@ -230,7 +230,7 @@ different principals of object-oriented design; five of these are related to
 individual classes, and the remaining six are related to collections of
 classes (i.e. packages). These eleven principles are:
 
-General OO Principles:
+General Object-Oriented Design Principles (i.e. The S.O.L.I.D. Principles<sup>**</sup>):
 
 * **1) SRP** (Single Responsibility Principle): Classes should have only one
 reason to change.
@@ -241,14 +241,14 @@ functions, etc.) should be open for extension, but closed for modification.
 * **3) LSP** (Liskov Substitution Principle): Subtypes must be substitutable
 for their base types.
 
-* **4) DIP** (Dependency Inversion Principle): Abstractions should not depend
-on details. Details should depend on abstractions.
-
-* **5) ISP** (Interface Segregation Principle): Clients should not be forced
+* **4) ISP** (Interface Segregation Principle): Clients should not be forced
 to depend upon methods that they do not use. Interfaces belong to clients, not
 to hierarchies.
 
-Package Cohesion OO Principles:
+* **5) DIP** (Dependency Inversion Principle): Abstractions should not depend
+on details. Details should depend on abstractions.
+
+Package Cohesion Principles:
 
 * **6) REP** (Release-Reuse Equivalency Principle): The granule of reuse is
 the granule of release.
@@ -260,7 +260,7 @@ closed package affects all the classes in that package and no other packages.
 * **8) CRP** (Common Reuse Principle): The classes in a package are used
 together. If you reuse one of the classes in a package, you reuse them all.
 
-Package Coupling OO Principles:
+Package Coupling Principles:
 
 * **9) ADP** (Acyclic Dependencies Principle): Allow no cycles in the package
 dependency graph.
@@ -294,6 +294,12 @@ advantage of the hot new term "Agile". Also, this book has many examples; some
 are helpful but most (at least for me) were beating a dead horse (i.e. I
 already got the point). For other readers, the examples may be more helpful if
 they do not understand the points in the text.
+
+<b>**</b> The acronym "S.O.L.I.D" for the five general object-oriented design
+principles was coined after the publication of the book "Agile Software
+Development".  In this book, the principles were listed in the order
+"S.O.L.D.I.".
+
 
 <a name="domain_driven_design_2004"/>
 
